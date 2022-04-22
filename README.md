@@ -1,7 +1,7 @@
 <h1>Hi 👋 My name is Hamza Elgarrai<h1>
-Student in 2nd year of computer development
+<p>Student in 2nd year of computer development<p>
 * 🌍  I'm based in Morocco
-* ✉️  You can contact me at [hamzaelgarrai.dev@gmail.com](mailto:hamzaelgarrai.dev@gmail.com)
+* ✉️  You can contact me at hamzaelgarrai.dev@gmail.com
 * 🧠  I'm learning Asp.NET Core MVC* 🤝  I'm open to collaborating on Web Projects
 
 ### Skills
